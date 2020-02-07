@@ -71,7 +71,7 @@ PARAM_DEFINE_FLOAT(HTE_ACC_GATE, 3.0);
 /**
  * 1-sigma initial hover thrust uncertainty
  *
- * Sets the number of standatd deviations used
+ * Sets the number of standard deviations used
  * by the innovation consistency test.
  *
  * @decimal 3
